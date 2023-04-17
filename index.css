@@ -1,0 +1,30 @@
+h1{
+    margin: 20px;
+    text-align: center;
+    color: red;
+    
+
+}
+#displayscreen{
+    
+    text-align: center;
+    
+}
+#display{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 1%;
+    background-image: linear-gradient(yellow ,blue,green);
+}
+*{
+    padding: 0;
+    margin: 0;
+    background-color:rgba(182, 199, 32, 0.966);
+}
+#fullscreen{
+     border: 0px solid black; 
+    margin-top: 250px;
+}
